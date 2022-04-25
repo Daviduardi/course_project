@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd351945-e32a-4846-ad06-7b977f05a5be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/course_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/course_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3_homework" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/task3_homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/task4_homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task5_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/task5_homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/task6_homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task7_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7_homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task8_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/task8_homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
